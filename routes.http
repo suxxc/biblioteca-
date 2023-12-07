@@ -1,0 +1,7 @@
+POST http://localhost:3333/livro 
+Content-Type: application/json
+{
+    "titulo": "livro 01",
+    "autor": "autor 01",
+    "npaginas": 400
+}
